@@ -1,0 +1,4 @@
+#Hello World, meu primeiro repository
+print('Hello World!)
+for i in range(5):
+  print('Hello World!)
